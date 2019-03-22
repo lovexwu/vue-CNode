@@ -1,4 +1,4 @@
-**预览地址:**https://lovexwu.github.io/vue-CNode/#/
+**预览地址:** https://lovexwu.github.io/vue-CNode/#/
 
 ## 项目功能
 高仿CNODE社区
