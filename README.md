@@ -4,19 +4,19 @@
 高仿CNODE社区
 
 ## 项目模块组件： 
-1､Header模块
-2､PostList模块
-3､Article模块
-4､Slider侧边栏模块
-5､UserInfo用户个人中心模块
-6､Pagination分页组件的开发
+1､Header模块  
+2､PostList模块  
+3､Article模块  
+4､Slider侧边栏模块  
+5､UserInfo用户个人中心模块  
+6､Pagination分页组件的开发  
 
 ## 项目技术
-1､vue.js计算属性
-2､vue.js的内置指令和事件的绑定
-3､vue.js的自定义事件和触发
-4､vue-router路由的跳转和监听
-5､父子组件之间的数据传递
+1､vue.js计算属性  
+2､vue.js的内置指令和事件的绑定  
+3､vue.js的自定义事件和触发  
+4､vue-router路由的跳转和监听  
+5､父子组件之间的数据传递  
 
 ## 遇到的坑
 上传到github，并通过Github pages预览时，由于文件路径原因，页面404显示，需要修改配置
